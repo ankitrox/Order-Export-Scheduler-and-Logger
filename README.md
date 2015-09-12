@@ -15,7 +15,7 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 
 [7. Sample CSV](#sample-csv)
 
-[8. How you contribute by purchasing this plugin!](#contribute)
+[8. Giving Back!](#contribute)
 
 #### <a name="installation"></a>Installation
 

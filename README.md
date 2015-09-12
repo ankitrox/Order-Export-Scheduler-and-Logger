@@ -5,6 +5,11 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 
 [2. Fields added by plugin](#fields-added)
 
+	- Auto update email
+	- Start Time
+	- Start Date
+	- End Date
+
 [3. How to reorder fields](#reorder-added)
 
 [4. Receiving automatic update notifications](#auto-update)

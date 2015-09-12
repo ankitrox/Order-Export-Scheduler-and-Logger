@@ -5,10 +5,10 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 
 [2. Fields added by plugin](#fields-added)
 
-	- Auto update email
-	- Start Time
-	- Start Date
-	- End Date
+	a. Auto update email(#auto-update-note)
+	b. Start Time(#wsoe-start-time)
+	c. Start Date(#wsoe-start-date)
+	d. End Date(#wsoe-end-date)
 
 [3. How to reorder fields](#reorder-added)
 

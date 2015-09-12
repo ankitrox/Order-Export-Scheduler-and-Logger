@@ -7,15 +7,17 @@ can also be used to log the already exported reports and you can also download t
 
 [1. Installation](#installation)
 
-[1. Features](#features)
+[2. Features](#features)
 
-[2. Fields added by plugin](#fields-added)
+[3. Fields added by plugin](#fields-added)
 
-[3. FAQ](#faq)
+[4. Order Export Logging](#export-log)
 
-[4. Refund policy](#refund)
+[5. FAQ](#faq)
 
-[5. Giving Back!](#contribute)
+[6. Refund policy](#refund)
+
+[7. Giving Back!](#contribute)
 
 ### <a name="installation"></a>Installation
 
@@ -70,6 +72,15 @@ Example: Suppose you are residing in India and your server is located in U.S.A.,
 ##### 8. Clear
 
 It will clear all the fields and will remove the scheduled export, so that it will no longer be scheduled and exported. This is kind of reset button. :)
+
+### <a name="export-log"></a> Order Export Logging
+
+![Order Export Logs]
+(http://sharethingz.com/wp-content/uploads/2015/09/Logger.png)
+
+* Whenever order export process is carried out using WooCommerce Simply Order Export plugin, a file is created on server.
+* Allows to keep log of all those exported reports for future reference.
+* Allows to download logs individually or in bulk.
 
 ### <a name="faq"></a> Frequently asked questions
 

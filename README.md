@@ -29,6 +29,36 @@ This contains documentation for WooCommerce WooCommerce Order Export Scheduler a
 This is email address which you used during purchase on checkout page. This will help to receive auto-update notifications and you can keep your plugin up-to-date.
 It is highly recommended that you should always keep your plugin updated to ensure that it is not always compatible with other dependednt plugins and non-vulnerable.
 
+##### 2. Export Start Time
+
+This is mandatory field. This is the time from which export should be scheduled. You can select the time from the dropdown, once you click into textbox.
+Example: Suppose current time is 3 P.M. and you selected 2 P.M. from dropdown, export will be scheduled from next day's 2 P.M. time.
+
+##### 3. Export Interval (In Minutes)
+
+This is mandatory field. This is the interval after which scheduled export will be repeated. Its value should always be inputted in minutes.
+
+##### 4. Export Start Date
+
+This field is mandatory. It is the date from which orders will be exported (fetched).
+
+##### 5. Export End Date
+
+This field is mandatory. It is the date up to which orders will be exported (fetched).
+
+##### 6. Email
+
+This field is mandatory. This is the email address on which exported report (.csv file) will be sent as an attachment.
+
+##### 7. Timezone
+
+This field is optional, if not selected, it will get timezone according to server's default timezone. This is necessary to set because it will help you to schedule the export according to your timezone.
+Example: Suppose you are residing in India and your server is located in U.S.A., it will take default timezone of U.S.A. and will schedule according to U.S.A. timing, selecting timezone "Asia/Kolkata" makes it possible to schedule export according to Indian timezone.
+
+##### 8. Clear
+
+It will clear all the fields and will remove the scheduled export, so that it will no longer be scheduled and exported. This is kind of reset button. :)
+
 #### <a name="faq"></a> Frequently asked questions
 
 **When I click download link in email, index.php file is getting downloaded instead of plugin zip file. What should I do?**

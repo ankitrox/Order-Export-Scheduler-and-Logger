@@ -1,4 +1,4 @@
-# WooCommerce Simply Order Export Add-on Documentation
+# WooCommerce Order Export Scheduler and Logger Documentation
 This contains documentation for WooCommerce WooCommerce Order Export Scheduler and Logger plugin. This can be used as reference for usability of plugin. To purchase the plugin [follow this link](http://sharethingz.com/downloads/wsoe-scheduler-logger/)
 
 This plugin can be used in conjuction with [WooCommerce Simply Order Export plugin](https://wordpress.org/plugins/woocommerce-simply-order-export/) and can be used to

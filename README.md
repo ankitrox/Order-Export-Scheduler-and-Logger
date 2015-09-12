@@ -119,7 +119,7 @@ No Refund.
 [Download Sample File](https://www.dropbox.com/s/5v9lxrypv72l1as/order-export.csv?dl=0)
 
 
-#### <a name="contribute"></a> How you contribute by purchasing this plugin!
+#### <a name="contribute"></a> Giving back to community!
 
 ![Akshay Patra]
 (http://www.akshayapatra.org/apadmin/uploads/settings/logo.png)

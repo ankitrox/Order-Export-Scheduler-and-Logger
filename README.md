@@ -9,9 +9,7 @@ This contains documentation for WooCommerce WooCommerce Order Export Scheduler a
 
 [4. Refund policy](#refund)
 
-[5. Video tutorial](#video)
-
-[6. Giving Back!](#contribute)
+[5. Giving Back!](#contribute)
 
 ### <a name="installation"></a>Installation
 
@@ -93,9 +91,6 @@ When you purchase the add-on, an account is created for you on [ShareThing](http
 ### <a name="refund"></a> Refund policy
 
 No Refund.
-
-### <a name="video"></a> Video
-
 
 ### <a name="contribute"></a> Giving back to community!
 

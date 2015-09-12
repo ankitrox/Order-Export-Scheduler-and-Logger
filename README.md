@@ -75,7 +75,7 @@ It will clear all the fields and will remove the scheduled export, so that it wi
 
 **I cannot see order export settings under woocommerce=>settings**
 
-* Please confirm if latest versions of woocommerce and woocommerce simply order export plugin is installed.
+* Please confirm if latest versions of woocommerce and [woocommerce simply order export plugin](https://wordpress.org/plugins/woocommerce-simply-order-export/) is installed.
 * Deactivate all plugins except woocommerce, woocommerce simply order export and woocommerce simply order export add-on plugins and switch to default wordpress theme (Twenty Fifteen), check if similar issue still persists or not?
 * If none of these helps, contact through [ShareThingz Contact Form](http://sharethingz.com/contact/)
 

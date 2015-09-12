@@ -1,7 +1,13 @@
 # WooCommerce Simply Order Export Add-on Documentation
 This contains documentation for WooCommerce WooCommerce Order Export Scheduler and Logger plugin. This can be used as reference for usability of plugin. To purchase the plugin [follow this link](http://sharethingz.com/downloads/wsoe-scheduler-logger/)
 
+This plugin can be used in conjuction with [WooCommerce Simply Order Export plugin](https://wordpress.org/plugins/woocommerce-simply-order-export/) and can be used to
+schedule the order export in future. Orders will be exported automatically after the specified interval and exported csv file will be sent to the user by email. This plugin
+can also be used to log the already exported reports and you can also download them either individually or in bulk (zip)
+
 [1. Installation](#installation)
+
+[1. Features](#features)
 
 [2. Fields added by plugin](#fields-added)
 
@@ -16,6 +22,14 @@ This contains documentation for WooCommerce WooCommerce Order Export Scheduler a
 * Go to Plugins => Add New => Upload Plugin, from your wordpress dashboard.
 * Select zip file you downloaded and click "Install Now"
 * Click "Activate plugin"
+
+### <a name="features"></a>Features
+
+* Schedule the order export for future.
+* Export will be repeat itself after specified interval of time automatically.
+* Log already exported reports.
+* Download logged reports individually.
+* Download logged reports in bulk by selecting multiple reports (zip extension should be installed on server).
 
 ### <a name="fields-added"></a> Fields added by plugin
 

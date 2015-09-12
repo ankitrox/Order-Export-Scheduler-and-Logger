@@ -1,21 +1,17 @@
 # WooCommerce Simply Order Export Add-on Documentation
-This contains documentation for WooCommerce Simply Order Export Add-on. This can be used as reference for usability of plugin. To purchase the plugin [follow this link](http://sharethingz.com/woocommerce-simply-order-export-add-on/)
+This contains documentation for WooCommerce WooCommerce Order Export Scheduler and Logger plugin. This can be used as reference for usability of plugin. To purchase the plugin [follow this link](http://sharethingz.com/downloads/wsoe-scheduler-logger/)
 
 [1. Installation](#installation)
 
 [2. Fields added by plugin](#fields-added)
 
-[3. How to reorder fields](#reorder-added)
+[3. FAQ](#faq)
 
-[4. Receiving automatic update notifications](#auto-update)
+[4. Refund policy](#refund)
 
-[5. FAQ](#faq)
+[5. Video tutorial]
 
-[6. Refund policy](#refund)
-
-[7. Sample CSV](#sample-csv)
-
-[8. Giving Back!](#contribute)
+[6. Giving Back!](#contribute)
 
 #### <a name="installation"></a>Installation
 
@@ -23,59 +19,12 @@ This contains documentation for WooCommerce Simply Order Export Add-on. This can
 * Select zip file you downloaded and click "Install Now"
 * Click "Activate plugin"
 
-#### <a name="fields-added"></a> Fields added by this plugin
+#### <a name="fields-added"></a> Fields added by plugin
 
-* Payment Mehod
-* Order Currency
-* Customer Note
-* Prices Include Tax (yes/no)
-* Customer IP Address
-* Customer User Agent (Browser)
-* Customer User
-* Order Shopping
-* Billing Country
-* Billing First Name
-* Billing Last Name
-* Billing Company
-* Billing Address
-* Billing City
-* Billing State
-* Billing Postcode
-* Shipping Country
-* Shipping First Name
-* Shipping Last Name
-* Shipping Company
-* Shipping Address
-* Shipping City
-* Shipping State
-* Shipping Postcode
-* Shipping Method
-* Cart Discount
-* Cart Discount Tax
-* Order Tax
-* Order Shipping Tax
-* Paid Date
-* Transaction ID
-* Coupon Codes
-* Coupon Discount Amount
+![Fields added by plugin]
+(http://sharethingz.com/wp-content/uploads/2015/09/Scheduler-Fields.png)
 
-#### <a name="reorder-added"></a> Reordering of fields
 
-![Reordering of fields]
-(http://sharethingz.com/wp-content/uploads/edd/2015/05/Reorder-Fields.png)
-
-* Section for reordering is present at **Woocommerce => Settings => Order Export => Advanced options => Reorder Fields**
-* When no field is selected reorder section would not appear.
-* When new field is marked as checked in list, that field would get added in last in reordering queue.
-* When any field is marked as unchecked from list, that field would also get removed from reordering queue.
-* You can reorder the fields by dragging, once all the fields are reordered click "Save" button.
-
-#### <a name="auto-update"></a> Auto Update Notifications
-
-![Auto update]
-(http://sharethingz.com/wp-content/uploads/2015/05/auto-update1.png)
-
-To receive automatic update notification of this plugin, please go to *Woocommerce => Settings => Order Export => Advanced options => Reorder Fields*, enter your email address which you used at the time of purchase of this plugin.
 
 #### <a name="faq"></a> Frequently asked questions
 

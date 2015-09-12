@@ -24,7 +24,7 @@ This contains documentation for WooCommerce WooCommerce Order Export Scheduler a
 ![Fields added by plugin]
 (http://sharethingz.com/wp-content/uploads/2015/09/Scheduler-Fields.png)
 
-#####Auto-update Email#####
+#####Auto-update Email
 
 This is email address which you used during purchase on checkout page. This will help to receive auto-update notifications and you can keep your plugin up-to-date.
 It is highly recommended that you should always keep your plugin updated to ensure that it is not always compatible with other dependednt plugins and non-vulnerable.

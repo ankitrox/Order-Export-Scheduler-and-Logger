@@ -96,12 +96,11 @@ It will clear all the fields and will remove the scheduled export, so that it wi
 * If email is configured on your website's server, check settings for incoming emails.
 * Contact by [sharethingz contact form](http://sharethingz.com/contact/) from your registered email, if your payment is successfully completed, zip file of plugin will be sent to you by email.
 
-**I cannot see order export settings under woocommerce=>settings**
+**I have entered and setup all settings, but do not receive exported report on my email**
 
-* Please confirm if latest versions of woocommerce and [woocommerce simply order export plugin](https://wordpress.org/plugins/woocommerce-simply-order-export/) is installed.
-* Deactivate all plugins except woocommerce, woocommerce simply order export and woocommerce simply order export add-on plugins and switch to default wordpress theme (Twenty Fifteen), check if similar issue still persists or not?
-* If none of these helps, contact through [ShareThingz Contact Form](http://sharethingz.com/contact/)
-
+* This plugin uses [WP Cron](http://code.tutsplus.com/articles/insights-into-wp-cron-an-introduction-to-scheduling-tasks-in-wordpress--wp-23119)
+which is false cron and it only runs when site gets visited.
+* It is always recommended to replace wp cron with linux's crontab, please refer this [tutorial for replacing wp cron with linux crontab](https://rtcamp.com/tutorials/wordpress/wp-cron-crontab/)
 
 **Where I can get support regarding this plugin?**
 

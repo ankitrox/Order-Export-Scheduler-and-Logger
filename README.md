@@ -84,33 +84,27 @@ It will clear all the fields and will remove the scheduled export, so that it wi
 
 ### <a name="faq"></a> Frequently asked questions
 
-**When I click download link in email, index.php file is getting downloaded instead of plugin zip file. What should I do?**
+**1. When I click download link in email, index.php file is getting downloaded instead of plugin zip file. What should I do?**
 
 * This is happening because of [bug](https://github.com/easydigitaldownloads/Easy-Digital-Downloads/issues/3498) in Easy Digital Downloads plugin.
 * You can simply rename index.php file to index.zip, and everything should work fine.
 * Alternatively, you can send message from [sharethingz contact form](http://sharethingz.com/contact/) reporting the issue. I will send you the zip file of plugin on your registered email which you used during plugin purchase.
 
-**I have purchased plugn, made the payment, but haven't received any email for download. What to do now?**
+**2. I have purchased plugn, made the payment, but haven't received any email for download. What to do now?**
 
 * Check in your spam folder, email can be present there.
 * If email is configured on your website's server, check settings for incoming emails.
 * Contact by [sharethingz contact form](http://sharethingz.com/contact/) from your registered email, if your payment is successfully completed, zip file of plugin will be sent to you by email.
 
-**I have entered and setup all settings, but do not receive exported report on my email**
+**3. I have entered and setup all settings, but do not receive exported report on my email**
 
 * This plugin uses [WP Cron](http://code.tutsplus.com/articles/insights-into-wp-cron-an-introduction-to-scheduling-tasks-in-wordpress--wp-23119)
 which is false cron and it only runs when site gets visited.
 * It is always recommended to replace wp cron with linux's crontab, please refer this [tutorial for replacing wp cron with linux crontab](https://rtcamp.com/tutorials/wordpress/wp-cron-crontab/)
 
-**Where I can get support regarding this plugin?**
+**4. Where I can get support regarding this plugin?**
 
 When you purchase the add-on, an account is created for you on [ShareThing](http://sharethingz.com). You can use [ShareThingz Support Forum](http://sharethingz.com/support/forum/woocommerce-simply-order-export-addon/) for any queries after purchasing add-on. Pre-purchase queries can be posted through [ShareThingz Contact](http://sharethingz.com/contact)
-
-**Export button is not working**
-
-* Deactivate all plugins except woocommerce, woocommerce simply order export and woocommerce simply order export add-on.
-* Switch to default wordpress theme, check if issue still persists.
-* If issue still persists, contact at [ShareThingz facebook page](http://facebook.com/shrthngz)
 
 ### <a name="refund"></a> Refund policy
 

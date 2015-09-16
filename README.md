@@ -90,7 +90,7 @@ It will clear all the fields and will remove the scheduled export, so that it wi
 * You can simply rename index.php file to index.zip, and everything should work fine.
 * Alternatively, you can send message from [sharethingz contact form](http://sharethingz.com/contact/) reporting the issue. I will send you the zip file of plugin on your registered email which you used during plugin purchase.
 
-**2. I have purchased plugn, made the payment, but haven't received any email for download. What to do now?**
+**2. I have purchased plugin, made the payment, but haven't received any email for download. What to do now?**
 
 * Check in your spam folder, email can be present there.
 * If email is configured on your website's server, check settings for incoming emails.

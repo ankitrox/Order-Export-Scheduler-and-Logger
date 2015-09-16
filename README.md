@@ -104,7 +104,8 @@ which is false cron and it only runs when site gets visited.
 
 **4. Where I can get support regarding this plugin?**
 
-When you purchase the add-on, an account is created for you on [ShareThing](http://sharethingz.com). You can use [ShareThingz Support Forum](http://sharethingz.com/support/forum/woocommerce-simply-order-export-addon/) for any queries after purchasing add-on. Pre-purchase queries can be posted through [ShareThingz Contact](http://sharethingz.com/contact)
+* When you purchase the add-on, an account is created for you on [ShareThing](http://sharethingz.com). You can use [ShareThingz Support Forum](http://sharethingz.com/support/forum/woocommerce-simply-order-export-addon/) for any queries after purchasing add-on. Pre-purchase queries can be posted through [ShareThingz Contact](http://sharethingz.com/contact)
+* If you already have account in sharethingz.com, you can use that in order to get support on support forum.
 
 ### <a name="refund"></a> Refund policy
 
